@@ -3,3 +3,4 @@ ipywidgets/
 menpo//
 temp/*
 !temp/.blank
+.ipynb_checkpoints/
