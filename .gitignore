@@ -2,5 +2,6 @@ conda-forge//
 ipywidgets/
 menpo//
 temp/*
+conda-bld/*
 !temp/.blank
 .ipynb_checkpoints/
