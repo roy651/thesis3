@@ -7,7 +7,7 @@ backcall==0.1.0
 backports.weakref==1.0rc1
 bcrypt==3.1.4
 beautifulsoup4==4.6.3
-bleach==1.5.0
+bleach==3.1.4
 boto==2.48.0
 bqplot==0.11.2
 cachetools==3.0.0

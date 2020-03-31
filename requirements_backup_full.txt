@@ -4,7 +4,7 @@ asn1crypto==0.23.0
 aws==0.2.5
 backports.weakref==1.0rc1
 bcrypt==3.1.4
-bleach==1.5.0
+bleach==3.1.4
 boto==2.48.0
 cf-deployment-tracker==1.0.4
 cffi==1.11.2
