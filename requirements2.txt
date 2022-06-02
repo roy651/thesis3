@@ -37,7 +37,7 @@ google-cloud-core==0.28.1
 google-cloud-storage==1.13.0
 google-resumable-media==0.3.1
 googleapis-common-protos==1.5.5
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.7
 ipdb==0.10.2
 ipykernel==4.5.2
