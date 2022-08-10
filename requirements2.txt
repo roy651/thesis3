@@ -66,7 +66,7 @@ matplotlib==1.5.3
 mistune==0.8.4
 mock==2.0.0
 mpmath==0.19
-nbconvert==5.4.0
+nbconvert==6.3.0
 nbformat==4.4.0
 nbinteract==0.2.1
 networkx==1.11
